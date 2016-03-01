@@ -1,8 +1,4 @@
-# GraphQL Sandbox
-
-![Version](https://img.shields.io/badge/version-0.0.1-green.svg?style=flat-square)
-[![MIT License](https://img.shields.io/badge/license-MIT_License-blue.svg?style=flat-square)](./LICENSE.txt)
-[![Chat](https://img.shields.io/badge/chat-general_discussion-blue.svg?style=flat-square)](https://github.com/kriasoft/graphql-sandbox/issues/1)
+# GraphQL Sandbox `v0.0.1`
 
 > This is a [forked](https://help.github.com/articles/fork-a-repo/) copy of the
 > [GraphQL Sandbox](https://github.com/kriasoft/graphql-sandbox) repository,
